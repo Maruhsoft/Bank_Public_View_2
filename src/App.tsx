@@ -11,14 +11,14 @@ import Footer from './components/Footer';
 function App() {
   useEffect(() => {
     // Set document title
-    document.title = 'GlobalTrust Bank - Your Trusted Financial Partner Worldwide';
+    document.title = 'IBK 기업은행 - Your Trusted Financial Partner Worldwide';
     
     // Add meta tags for SEO
     const metaDescription = document.querySelector('meta[name="description"]');
     if (!metaDescription) {
       const meta = document.createElement('meta');
       meta.name = 'description';
-      meta.content = 'Experience world-class banking services with GlobalTrust Bank. Comprehensive personal and business banking, international services, and digital solutions.';
+      meta.content = 'Experience world-class banking services with IBK 기업은행. Comprehensive personal and business banking, international services, and digital solutions.';
       document.head.appendChild(meta);
     }
 
@@ -34,12 +34,12 @@ function App() {
     // Add Open Graph tags
     const ogTitle = document.createElement('meta');
     ogTitle.property = 'og:title';
-    ogTitle.content = 'GlobalTrust Bank - Your Trusted Financial Partner';
+    ogTitle.content = 'IBK 기업은행 - Your Trusted Financial Partner';
     document.head.appendChild(ogTitle);
 
     const ogDescription = document.createElement('meta');
     ogDescription.property = 'og:description';
-    ogDescription.content = 'Comprehensive banking solutions for personal and business needs with global reach and local expertise.';
+    ogDescription.content = 'Comprehensive banking solutions for personal and business needs with global reach and local expertise from IBK 기업은행.';
     document.head.appendChild(ogDescription);
 
     const ogType = document.createElement('meta');

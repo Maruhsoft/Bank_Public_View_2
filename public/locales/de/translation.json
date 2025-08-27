@@ -19,6 +19,9 @@
       "cta": "Jetzt starten"
     }
   },
+  "footer": {
+    "copyright": "© 2025 IBK 기업은행. Alle Rechte vorbehalten."
+  },
   "languages": {
     "en": "English",
     "zh-TW": "繁體中文",
