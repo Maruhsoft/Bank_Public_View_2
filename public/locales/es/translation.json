@@ -1,0 +1,116 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "personalBanking": "Banca Personal",
+    "businessBanking": "Banca Empresarial",
+    "internationalBanking": "Banca Internacional",
+    "digitalBanking": "Banca Digital",
+    "wealthManagement": "Gestión Patrimonial",
+    "securityCenter": "Centro de Seguridad",
+    "aboutUs": "Acerca de Nosotros",
+    "contactUs": "Contáctanos",
+    "login": "Iniciar Sesión",
+    "openAccount": "Abrir Cuenta"
+  },
+  "personalBanking": {
+    "checkingAccounts": "Cuentas Corrientes",
+    "savingsAccounts": "Cuentas de Ahorros",
+    "creditCards": "Tarjetas de Crédito",
+    "loansAndMortgages": "Préstamos e Hipotecas",
+    "investmentServices": "Servicios de Inversión",
+    "insurance": "Seguros"
+  },
+  "businessBanking": {
+    "businessChecking": "Cuenta Corriente Empresarial",
+    "businessLoans": "Préstamos Empresariales",
+    "merchantServices": "Servicios Comerciales",
+    "payrollAndHR": "Soluciones de Nómina y RR.HH.",
+    "commercialRealEstate": "Bienes Raíces Comerciales"
+  },
+  "internationalBanking": {
+    "globalTransfers": "Transferencias Globales",
+    "foreignCurrencyAccounts": "Cuentas en Moneda Extranjera",
+    "internationalInvestments": "Inversiones Internacionales",
+    "offshoreBanking": "Banca Offshore"
+  },
+  "digitalBanking": {
+    "mobileBanking": "Banca Móvil",
+    "onlineBanking": "Banca en Línea",
+    "billPay": "Pago de Facturas",
+    "eStatements": "Estados de Cuenta Electrónicos",
+    "securityTips": "Consejos de Seguridad"
+  },
+  "wealthManagement": {
+    "portfolioAdvisory": "Asesoría de Cartera",
+    "retirementPlanning": "Planificación de Jubilación",
+    "privateBanking": "Banca Privada",
+    "trustServices": "Servicios Fiduciarios"
+  },
+  "securityCenter": {
+    "fraudProtection": "Protección contra Fraude",
+    "accountAlerts": "Alertas de Cuenta",
+    "safeBankingTips": "Consejos de Banca Segura"
+  },
+  "aboutUs": {
+    "ourHistory": "Nuestra Historia",
+    "leadership": "Liderazgo",
+    "careers": "Carreras",
+    "newsroom": "Sala de Prensa"
+  },
+  "contactUs": {
+    "branchLocator": "Localizador de Sucursales y ATM",
+    "customerService": "Servicio al Cliente",
+    "internationalOffices": "Oficinas Internacionales",
+    "feedback": "Comentarios"
+  },
+  "hero": {
+    "slide1": {
+      "title": "Banca Construida para tu Futuro",
+      "subtitle": "Experimenta servicios bancarios de clase mundial con alcance global y experiencia local",
+      "cta": "Comienza Hoy"
+    },
+    "slide2": {
+      "title": "Soluciones Bancarias Internacionales",
+      "subtitle": "Gestiona sin problemas tus finanzas a través de fronteras con nuestra red global",
+      "cta": "Explorar Servicios"
+    },
+    "slide3": {
+      "title": "La Innovación Digital se Encuentra con la Confianza",
+      "subtitle": "Seguridad avanzada y tecnología de vanguardia para la banca moderna",
+      "cta": "Aprende Más"
+    }
+  },
+  "homepage": {
+    "personalBankingTitle": "Banca Personal",
+    "personalBankingDesc": "Soluciones bancarias integrales adaptadas a tus necesidades personales",
+    "businessBankingTitle": "Banca Empresarial",
+    "businessBankingDesc": "Empodera tu negocio con nuestra experiencia en banca comercial",
+    "globalBankingTitle": "Banca Global",
+    "globalBankingDesc": "Servicios bancarios internacionales que te conectan mundialmente",
+    "digitalServicesTitle": "Servicios Digitales",
+    "digitalServicesDesc": "Banca en cualquier momento y lugar con nuestras plataformas digitales",
+    "securityCenterTitle": "Centro de Seguridad",
+    "securityCenterDesc": "Tu seguridad financiera es nuestra máxima prioridad",
+    "newsAndUpdates": "Noticias y Actualizaciones",
+    "latestOffers": "Últimas Ofertas"
+  },
+  "footer": {
+    "quickLinks": "Enlaces Rápidos",
+    "contactInfo": "Información de Contacto",
+    "followUs": "Síguenos",
+    "legalNotices": "Avisos Legales",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio",
+    "accessibility": "Accesibilidad",
+    "memberFDIC": "Miembro FDIC",
+    "equalHousingLender": "Prestamista de Vivienda Igualitaria",
+    "copyright": "© 2025 {{bankName}}. Todos los derechos reservados."
+  },
+  "languages": {
+    "en": "English",
+    "zh-TW": "繁體中文",
+    "zh-CN": "简体中文",
+    "es": "Español",
+    "fr": "Français"
+  }
+}

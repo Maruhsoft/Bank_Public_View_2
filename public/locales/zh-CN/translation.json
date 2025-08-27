@@ -1,0 +1,116 @@
+{
+  "navigation": {
+    "home": "首页",
+    "personalBanking": "个人银行",
+    "businessBanking": "企业银行",
+    "internationalBanking": "国际银行",
+    "digitalBanking": "数字银行",
+    "wealthManagement": "财富管理",
+    "securityCenter": "安全中心",
+    "aboutUs": "关于我们",
+    "contactUs": "联系我们",
+    "login": "登录",
+    "openAccount": "开户"
+  },
+  "personalBanking": {
+    "checkingAccounts": "支票账户",
+    "savingsAccounts": "储蓄账户",
+    "creditCards": "信用卡",
+    "loansAndMortgages": "贷款与房贷",
+    "investmentServices": "投资服务",
+    "insurance": "保险"
+  },
+  "businessBanking": {
+    "businessChecking": "企业支票",
+    "businessLoans": "企业贷款",
+    "merchantServices": "商户服务",
+    "payrollAndHR": "薪资与人力资源解决方案",
+    "commercialRealEstate": "商业房地产"
+  },
+  "internationalBanking": {
+    "globalTransfers": "全球转账",
+    "foreignCurrencyAccounts": "外币账户",
+    "internationalInvestments": "国际投资",
+    "offshoreBanking": "离岸银行"
+  },
+  "digitalBanking": {
+    "mobileBanking": "手机银行",
+    "onlineBanking": "网上银行",
+    "billPay": "账单支付",
+    "eStatements": "电子账单",
+    "securityTips": "安全提示"
+  },
+  "wealthManagement": {
+    "portfolioAdvisory": "投资组合顾问",
+    "retirementPlanning": "退休规划",
+    "privateBanking": "私人银行",
+    "trustServices": "信托服务"
+  },
+  "securityCenter": {
+    "fraudProtection": "欺诈防护",
+    "accountAlerts": "账户警报",
+    "safeBankingTips": "安全银行提示"
+  },
+  "aboutUs": {
+    "ourHistory": "我们的历史",
+    "leadership": "领导团队",
+    "careers": "职业机会",
+    "newsroom": "新闻室"
+  },
+  "contactUs": {
+    "branchLocator": "分行及ATM定位器",
+    "customerService": "客户服务",
+    "internationalOffices": "国际办事处",
+    "feedback": "意见反馈"
+  },
+  "hero": {
+    "slide1": {
+      "title": "为您的未来而建的银行",
+      "subtitle": "体验世界级的银行服务，全球覆盖与本地专业",
+      "cta": "立即开始"
+    },
+    "slide2": {
+      "title": "国际银行解决方案",
+      "subtitle": "通过我们的全球网络，无缝管理跨境财务",
+      "cta": "探索服务"
+    },
+    "slide3": {
+      "title": "数字创新与信任并重",
+      "subtitle": "先进的安全性与尖端技术，为现代银行服务",
+      "cta": "了解更多"
+    }
+  },
+  "homepage": {
+    "personalBankingTitle": "个人银行",
+    "personalBankingDesc": "针对您个人需求量身定制的全面银行解决方案",
+    "businessBankingTitle": "企业银行",
+    "businessBankingDesc": "以我们的商业银行专业知识为您的企业赋能",
+    "globalBankingTitle": "全球银行",
+    "globalBankingDesc": "连接您与世界的国际银行服务",
+    "digitalServicesTitle": "数字服务",
+    "digitalServicesDesc": "随时随地通过我们的数字平台进行银行业务",
+    "securityCenterTitle": "安全中心",
+    "securityCenterDesc": "您的金融安全是我们的首要任务",
+    "newsAndUpdates": "新闻与更新",
+    "latestOffers": "最新优惠"
+  },
+  "footer": {
+    "quickLinks": "快速链接",
+    "contactInfo": "联系信息",
+    "followUs": "关注我们",
+    "legalNotices": "法律声明",
+    "privacyPolicy": "隐私政策",
+    "termsOfService": "服务条款",
+    "accessibility": "无障碍服务",
+    "memberFDIC": "FDIC会员",
+    "equalHousingLender": "平等住房贷款机构",
+    "copyright": "© 2025 {{bankName}}。版权所有。"
+  },
+  "languages": {
+    "en": "English",
+    "zh-TW": "繁體中文",
+    "zh-CN": "简体中文",
+    "es": "Español",
+    "fr": "Français"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "navigation": {
+    "home": "Home",
+    "personalBanking": "Personal Banking",
+    "businessBanking": "Business Banking",
+    "internationalBanking": "International Banking",
+    "digitalBanking": "Digital Banking",
+    "wealthManagement": "Wealth Management",
+    "securityCenter": "Security Center",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "login": "Login",
+    "openAccount": "Open Account"
+  },
+  "personalBanking": {
+    "checkingAccounts": "Checking Accounts",
+    "savingsAccounts": "Savings Accounts",
+    "creditCards": "Credit Cards",
+    "loansAndMortgages": "Loans & Mortgages",
+    "investmentServices": "Investment Services",
+    "insurance": "Insurance"
+  },
+  "businessBanking": {
+    "businessChecking": "Business Checking",
+    "businessLoans": "Business Loans",
+    "merchantServices": "Merchant Services",
+    "payrollAndHR": "Payroll & HR Solutions",
+    "commercialRealEstate": "Commercial Real Estate"
+  },
+  "internationalBanking": {
+    "globalTransfers": "Global Transfers",
+    "foreignCurrencyAccounts": "Foreign Currency Accounts",
+    "internationalInvestments": "International Investments",
+    "offshoreBanking": "Offshore Banking"
+  },
+  "digitalBanking": {
+    "mobileBanking": "Mobile Banking",
+    "onlineBanking": "Online Banking",
+    "billPay": "Bill Pay",
+    "eStatements": "eStatements",
+    "securityTips": "Security Tips"
+  },
+  "wealthManagement": {
+    "portfolioAdvisory": "Portfolio Advisory",
+    "retirementPlanning": "Retirement Planning",
+    "privateBanking": "Private Banking",
+    "trustServices": "Trust Services"
+  },
+  "securityCenter": {
+    "fraudProtection": "Fraud Protection",
+    "accountAlerts": "Account Alerts",
+    "safeBankingTips": "Safe Banking Tips"
+  },
+  "aboutUs": {
+    "ourHistory": "Our History",
+    "leadership": "Leadership",
+    "careers": "Careers",
+    "newsroom": "Newsroom"
+  },
+  "contactUs": {
+    "branchLocator": "Branch & ATM Locator",
+    "customerService": "Customer Service",
+    "internationalOffices": "International Offices",
+    "feedback": "Feedback"
+  },
+  "hero": {
+    "slide1": {
+      "title": "Banking Built for Your Future",
+      "subtitle": "Experience world-class banking with global reach and local expertise",
+      "cta": "Get Started Today"
+    },
+    "slide2": {
+      "title": "International Banking Solutions",
+      "subtitle": "Seamlessly manage your finances across borders with our global network",
+      "cta": "Explore Services"
+    },
+    "slide3": {
+      "title": "Digital Innovation Meets Trust",
+      "subtitle": "Advanced security and cutting-edge technology for modern banking",
+      "cta": "Learn More"
+    }
+  },
+  "homepage": {
+    "personalBankingTitle": "Personal Banking",
+    "personalBankingDesc": "Comprehensive banking solutions tailored to your personal needs",
+    "businessBankingTitle": "Business Banking",
+    "businessBankingDesc": "Empower your business with our commercial banking expertise",
+    "globalBankingTitle": "Global Banking",
+    "globalBankingDesc": "International banking services connecting you worldwide",
+    "digitalServicesTitle": "Digital Services",
+    "digitalServicesDesc": "Banking anytime, anywhere with our digital platforms",
+    "securityCenterTitle": "Security Center",
+    "securityCenterDesc": "Your financial security is our top priority",
+    "newsAndUpdates": "News & Updates",
+    "latestOffers": "Latest Offers"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Information",
+    "followUs": "Follow Us",
+    "legalNotices": "Legal Notices",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "accessibility": "Accessibility",
+    "memberFDIC": "Member FDIC",
+    "equalHousingLender": "Equal Housing Lender",
+    "copyright": "© 2025 {{bankName}}. All rights reserved."
+  },
+  "languages": {
+    "en": "English",
+    "zh-TW": "繁體中文",
+    "zh-CN": "简体中文",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ko": "한국어",
+    "pt": "Português",
+    "it": "Italiano",
+    "ar": "العربية"
+  },
+  "features": {
+    "title": "Why Choose GlobalTrust Bank",
+    "subtitle": "Discover the advantages of banking with a trusted global partner",
+    "feature1": {
+      "title": "24/7 Global Support",
+      "description": "Round-the-clock customer service across all time zones"
+    },
+    "feature2": {
+      "title": "Advanced Security",
+      "description": "Military-grade encryption and fraud protection"
+    },
+    "feature3": {
+      "title": "Competitive Rates",
+      "description": "Industry-leading interest rates and low fees"
+    },
+    "feature4": {
+      "title": "Mobile First",
+      "description": "Award-winning mobile app with all banking features"
+    }
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Trusted by millions of customers worldwide",
+    "testimonial1": {
+      "text": "GlobalTrust Bank has been my financial partner for over 10 years. Their international services are unmatched.",
+      "author": "Sarah Chen",
+      "position": "Business Owner, Hong Kong"
+    },
+    "testimonial2": {
+      "text": "The mobile app is incredibly user-friendly and secure. I can manage all my accounts seamlessly.",
+      "author": "Michael Rodriguez",
+      "position": "Software Engineer, New York"
+    },
+    "testimonial3": {
+      "text": "Their wealth management team helped me plan for retirement with personalized investment strategies.",
+      "author": "Emma Thompson",
+      "position": "Doctor, London"
+    }
+  },
+  "cta": {
+    "title": "Ready to Get Started?",
+    "subtitle": "Join millions of satisfied customers worldwide",
+    "primaryButton": "Open Account Today",
+    "secondaryButton": "Schedule Consultation"
+  }
+}

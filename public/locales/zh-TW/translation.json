@@ -1,0 +1,116 @@
+{
+  "navigation": {
+    "home": "首頁",
+    "personalBanking": "個人銀行",
+    "businessBanking": "企業銀行",
+    "internationalBanking": "國際銀行",
+    "digitalBanking": "數位銀行",
+    "wealthManagement": "財富管理",
+    "securityCenter": "安全中心",
+    "aboutUs": "關於我們",
+    "contactUs": "聯絡我們",
+    "login": "登入",
+    "openAccount": "開戶"
+  },
+  "personalBanking": {
+    "checkingAccounts": "支票帳戶",
+    "savingsAccounts": "儲蓄帳戶",
+    "creditCards": "信用卡",
+    "loansAndMortgages": "貸款與房貸",
+    "investmentServices": "投資服務",
+    "insurance": "保險"
+  },
+  "businessBanking": {
+    "businessChecking": "企業支票",
+    "businessLoans": "企業貸款",
+    "merchantServices": "商戶服務",
+    "payrollAndHR": "薪資與人力資源解決方案",
+    "commercialRealEstate": "商業房地產"
+  },
+  "internationalBanking": {
+    "globalTransfers": "全球轉帳",
+    "foreignCurrencyAccounts": "外幣帳戶",
+    "internationalInvestments": "國際投資",
+    "offshoreBanking": "離岸銀行"
+  },
+  "digitalBanking": {
+    "mobileBanking": "手機銀行",
+    "onlineBanking": "網路銀行",
+    "billPay": "帳單支付",
+    "eStatements": "電子帳單",
+    "securityTips": "安全提示"
+  },
+  "wealthManagement": {
+    "portfolioAdvisory": "投資組合顧問",
+    "retirementPlanning": "退休規劃",
+    "privateBanking": "私人銀行",
+    "trustServices": "信託服務"
+  },
+  "securityCenter": {
+    "fraudProtection": "詐騙防護",
+    "accountAlerts": "帳戶警示",
+    "safeBankingTips": "安全銀行提示"
+  },
+  "aboutUs": {
+    "ourHistory": "我們的歷史",
+    "leadership": "領導團隊",
+    "careers": "職業機會",
+    "newsroom": "新聞室"
+  },
+  "contactUs": {
+    "branchLocator": "分行及ATM定位器",
+    "customerService": "客戶服務",
+    "internationalOffices": "國際辦事處",
+    "feedback": "意見回饋"
+  },
+  "hero": {
+    "slide1": {
+      "title": "為您的未來而建的銀行",
+      "subtitle": "體驗世界級的銀行服務，全球覆蓋與本地專業",
+      "cta": "立即開始"
+    },
+    "slide2": {
+      "title": "國際銀行解決方案",
+      "subtitle": "透過我們的全球網路，無縫管理跨境財務",
+      "cta": "探索服務"
+    },
+    "slide3": {
+      "title": "數位創新與信任並重",
+      "subtitle": "先進的安全性與尖端技術，為現代銀行服務",
+      "cta": "了解更多"
+    }
+  },
+  "homepage": {
+    "personalBankingTitle": "個人銀行",
+    "personalBankingDesc": "針對您個人需求量身定制的全面銀行解決方案",
+    "businessBankingTitle": "企業銀行",
+    "businessBankingDesc": "以我們的商業銀行專業知識為您的企業賦能",
+    "globalBankingTitle": "全球銀行",
+    "globalBankingDesc": "連接您與世界的國際銀行服務",
+    "digitalServicesTitle": "數位服務",
+    "digitalServicesDesc": "隨時隨地透過我們的數位平台進行銀行業務",
+    "securityCenterTitle": "安全中心",
+    "securityCenterDesc": "您的金融安全是我們的首要任務",
+    "newsAndUpdates": "新聞與更新",
+    "latestOffers": "最新優惠"
+  },
+  "footer": {
+    "quickLinks": "快速連結",
+    "contactInfo": "聯絡資訊",
+    "followUs": "關注我們",
+    "legalNotices": "法律聲明",
+    "privacyPolicy": "隱私政策",
+    "termsOfService": "服務條款",
+    "accessibility": "無障礙服務",
+    "memberFDIC": "FDIC會員",
+    "equalHousingLender": "平等住房貸款機構",
+    "copyright": "© 2025 {{bankName}}。版權所有。"
+  },
+  "languages": {
+    "en": "English",
+    "zh-TW": "繁體中文",
+    "zh-CN": "简体中文",
+    "es": "Español",
+    "fr": "Français"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "bankName": "G",
+  "tagline": "Your Trusted Financial Partner Worldwide",
+  "contact": {
+    "email": "support@ibk.digital",
+    "phone": "+1-800-555-1234",
+    "hkPhone": "+852-1234-5678"
+  },
+  "addresses": {
+    "usHQ": {
+      "address": "123 Liberty Avenue",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001",
+      "country": "USA"
+    },
+    "hongKong": {
+      "address": "88 Finance Street",
+      "city": "Central",
+      "region": "Hong Kong",
+      "country": "Hong Kong SAR"
+    },
+    "london": {
+      "address": "45 Canary Wharf",
+      "city": "London",
+      "postCode": "E14 5AB",
+      "country": "United Kingdom"
+    }
+  },
+  "socials": {
+    "facebook": "https://facebook.com/",
+    "linkedin": "https://linkedin.com/company/",
+    "twitter": "https://twitter.com/",
+    "youtube": "https://youtube.com/"
+  },
+  "externalUrls": {
+    "login": "https://e.ibk.digital/",
+    "signup": "https://e.ibk.digital/signup"
+  },
+  "compliance": {
+    "fdic": "Member FDIC",
+    "equalHousing": "Equal Housing Lender",
+    "nmls": "NMLS ID: 123456"
+  }
+}
