@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { useTranslation } from 'react-i18next';
-import { Building2, ExternalLink } from 'lucide-react';
+import { Building2, ExternalLink, Menu } from 'lucide-react';
 import { useSiteInfo } from '../hooks/useSiteInfo';
 import Navigation from './Navigation';
 import LanguageSelector from './LanguageSelector';
