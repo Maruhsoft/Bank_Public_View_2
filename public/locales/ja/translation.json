@@ -12,14 +12,98 @@
     "login": "ログイン",
     "openAccount": "口座開設"
   },
+  "personalBanking": {
+    "checkingAccounts": "普通預金",
+    "savingsAccounts": "定期預金",
+    "creditCards": "クレジットカード",
+    "loansAndMortgages": "ローン・住宅ローン",
+    "investmentServices": "投資サービス",
+    "insurance": "保険"
+  },
+  "businessBanking": {
+    "businessChecking": "法人普通預金",
+    "businessLoans": "法人ローン",
+    "merchantServices": "加盟店サービス",
+    "payrollAndHR": "給与・人事ソリューション",
+    "commercialRealEstate": "商業不動産"
+  },
+  "internationalBanking": {
+    "globalTransfers": "海外送金",
+    "foreignCurrencyAccounts": "外貨預金",
+    "internationalInvestments": "海外投資",
+    "offshoreBanking": "オフショア銀行"
+  },
+  "digitalBanking": {
+    "mobileBanking": "モバイルバンキング",
+    "onlineBanking": "インターネットバンキング",
+    "billPay": "料金支払い",
+    "eStatements": "電子明細書",
+    "securityTips": "セキュリティのヒント"
+  },
+  "wealthManagement": {
+    "portfolioAdvisory": "ポートフォリオアドバイザリー",
+    "retirementPlanning": "退職プランニング",
+    "privateBanking": "プライベートバンキング",
+    "trustServices": "信託サービス"
+  },
+  "securityCenter": {
+    "fraudProtection": "詐欺防止",
+    "accountAlerts": "口座アラート",
+    "safeBankingTips": "安全な銀行取引のヒント"
+  },
+  "aboutUs": {
+    "ourHistory": "私たちの歴史",
+    "leadership": "リーダーシップ",
+    "careers": "キャリア",
+    "newsroom": "ニュースルーム"
+  },
+  "contactUs": {
+    "branchLocator": "支店・ATM検索",
+    "customerService": "カスタマーサービス",
+    "internationalOffices": "海外オフィス",
+    "feedback": "フィードバック"
+  },
   "hero": {
     "slide1": {
       "title": "あなたの未来のための銀行",
       "subtitle": "グローバルな展開とローカルな専門知識を持つ世界クラスの銀行サービスを体験してください",
       "cta": "今すぐ始める"
+    },
+    "slide2": {
+      "title": "国際銀行ソリューション",
+      "subtitle": "グローバルネットワークで国境を越えた金融をシームレスに管理",
+      "cta": "サービスを探索"
+    },
+    "slide3": {
+      "title": "デジタル革新と信頼の融合",
+      "subtitle": "現代の銀行業務のための高度なセキュリティと最先端技術",
+      "cta": "詳細を見る"
     }
   },
+  "homepage": {
+    "personalBankingTitle": "個人向け銀行サービス",
+    "personalBankingDesc": "お客様の個人的なニーズに合わせた包括的な銀行ソリューション",
+    "businessBankingTitle": "法人向け銀行サービス",
+    "businessBankingDesc": "商業銀行の専門知識でビジネスを強化",
+    "globalBankingTitle": "グローバル銀行",
+    "globalBankingDesc": "世界中とつながる国際銀行サービス",
+    "digitalServicesTitle": "デジタルサービス",
+    "digitalServicesDesc": "デジタルプラットフォームでいつでもどこでも銀行業務",
+    "securityCenterTitle": "セキュリティセンター",
+    "securityCenterDesc": "お客様の金融セキュリティが私たちの最優先事項です",
+    "newsAndUpdates": "ニュース・更新情報",
+    "latestOffers": "最新オファー"
+  },
   "footer": {
+    "quickLinks": "クイックリンク",
+    "contactInfo": "連絡先情報",
+    "followUs": "フォローする",
+    "legalNotices": "法的通知",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約",
+    "accessibility": "アクセシビリティ",
+    "memberFDIC": "FDIC加盟",
+    "equalHousingLender": "平等住宅貸付業者",
     "copyright": "© 2025 IBK 기업은행。全著作権所有。"
   },
   "languages": {
@@ -34,5 +118,50 @@
     "pt": "Português",
     "it": "Italiano",
     "ar": "العربية"
+  },
+  "features": {
+    "title": "IBK 기업은행を選ぶ理由",
+    "subtitle": "信頼できるグローバルパートナーとの銀行取引の利点を発見してください",
+    "feature1": {
+      "title": "24時間グローバルサポート",
+      "description": "すべてのタイムゾーンで24時間体制のカスタマーサービス"
+    },
+    "feature2": {
+      "title": "高度なセキュリティ",
+      "description": "軍事レベルの暗号化と詐欺防止"
+    },
+    "feature3": {
+      "title": "競争力のある金利",
+      "description": "業界をリードする金利と低手数料"
+    },
+    "feature4": {
+      "title": "モバイルファースト",
+      "description": "すべての銀行機能を備えた受賞歴のあるモバイルアプリ"
+    }
+  },
+  "testimonials": {
+    "title": "お客様の声",
+    "subtitle": "世界中の数百万人のお客様に信頼されています",
+    "testimonial1": {
+      "text": "IBK 기업은행は10年以上私の金融パートナーです。国際サービスは他の追随を許しません。",
+      "author": "サラ・チェン",
+      "position": "事業主、香港"
+    },
+    "testimonial2": {
+      "text": "モバイルアプリは非常に使いやすく安全です。すべてのアカウントをシームレスに管理できます。",
+      "author": "マイケル・ロドリゲス",
+      "position": "ソフトウェアエンジニア、ニューヨーク"
+    },
+    "testimonial3": {
+      "text": "資産管理チームが個人に合わせた投資戦略で退職計画を立てるのを手伝ってくれました。",
+      "author": "エマ・トンプソン",
+      "position": "医師、ロンドン"
+    }
+  },
+  "cta": {
+    "title": "始める準備はできましたか？",
+    "subtitle": "世界中の数百万人の満足したお客様に参加してください",
+    "primaryButton": "今すぐ口座開設",
+    "secondaryButton": "相談予約"
   }
 }

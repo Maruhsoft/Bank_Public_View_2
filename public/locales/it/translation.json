@@ -1,0 +1,167 @@
+{
+  "navigation": {
+    "home": "Home",
+    "personalBanking": "Banca Personale",
+    "businessBanking": "Banca d'Impresa",
+    "internationalBanking": "Banca Internazionale",
+    "digitalBanking": "Banca Digitale",
+    "wealthManagement": "Gestione Patrimoniale",
+    "securityCenter": "Centro Sicurezza",
+    "aboutUs": "Chi Siamo",
+    "contactUs": "Contattaci",
+    "login": "Accedi",
+    "openAccount": "Apri Conto"
+  },
+  "personalBanking": {
+    "checkingAccounts": "Conti Correnti",
+    "savingsAccounts": "Conti di Risparmio",
+    "creditCards": "Carte di Credito",
+    "loansAndMortgages": "Prestiti e Mutui",
+    "investmentServices": "Servizi di Investimento",
+    "insurance": "Assicurazioni"
+  },
+  "businessBanking": {
+    "businessChecking": "Conto Corrente Aziendale",
+    "businessLoans": "Prestiti Aziendali",
+    "merchantServices": "Servizi per Commercianti",
+    "payrollAndHR": "Soluzioni Buste Paga e HR",
+    "commercialRealEstate": "Immobili Commerciali"
+  },
+  "internationalBanking": {
+    "globalTransfers": "Trasferimenti Globali",
+    "foreignCurrencyAccounts": "Conti in Valuta Estera",
+    "internationalInvestments": "Investimenti Internazionali",
+    "offshoreBanking": "Banca Offshore"
+  },
+  "digitalBanking": {
+    "mobileBanking": "Mobile Banking",
+    "onlineBanking": "Internet Banking",
+    "billPay": "Pagamento Bollette",
+    "eStatements": "Estratti Elettronici",
+    "securityTips": "Consigli di Sicurezza"
+  },
+  "wealthManagement": {
+    "portfolioAdvisory": "Consulenza di Portafoglio",
+    "retirementPlanning": "Pianificazione Pensionistica",
+    "privateBanking": "Private Banking",
+    "trustServices": "Servizi Fiduciari"
+  },
+  "securityCenter": {
+    "fraudProtection": "Protezione dalle Frodi",
+    "accountAlerts": "Avvisi Conto",
+    "safeBankingTips": "Consigli per un Banking Sicuro"
+  },
+  "aboutUs": {
+    "ourHistory": "La Nostra Storia",
+    "leadership": "Leadership",
+    "careers": "Carriere",
+    "newsroom": "Sala Stampa"
+  },
+  "contactUs": {
+    "branchLocator": "Trova Filiali e ATM",
+    "customerService": "Servizio Clienti",
+    "internationalOffices": "Uffici Internazionali",
+    "feedback": "Feedback"
+  },
+  "hero": {
+    "slide1": {
+      "title": "Banca Costruita per il Tuo Futuro",
+      "subtitle": "Sperimenta servizi bancari di classe mondiale con portata globale ed esperienza locale",
+      "cta": "Inizia Oggi"
+    },
+    "slide2": {
+      "title": "Soluzioni Bancarie Internazionali",
+      "subtitle": "Gestisci le tue finanze transfrontaliere senza problemi con la nostra rete globale",
+      "cta": "Esplora Servizi"
+    },
+    "slide3": {
+      "title": "L'Innovazione Digitale Incontra la Fiducia",
+      "subtitle": "Sicurezza avanzata e tecnologia all'avanguardia per il banking moderno",
+      "cta": "Scopri di Più"
+    }
+  },
+  "homepage": {
+    "personalBankingTitle": "Banca Personale",
+    "personalBankingDesc": "Soluzioni bancarie complete su misura per le tue esigenze personali",
+    "businessBankingTitle": "Banca d'Impresa",
+    "businessBankingDesc": "Potenzia la tua attività con la nostra esperienza nel banking commerciale",
+    "globalBankingTitle": "Banca Globale",
+    "globalBankingDesc": "Servizi bancari internazionali che ti collegano in tutto il mondo",
+    "digitalServicesTitle": "Servizi Digitali",
+    "digitalServicesDesc": "Banking sempre e ovunque con le nostre piattaforme digitali",
+    "securityCenterTitle": "Centro Sicurezza",
+    "securityCenterDesc": "La tua sicurezza finanziaria è la nostra massima priorità",
+    "newsAndUpdates": "Notizie e Aggiornamenti",
+    "latestOffers": "Ultime Offerte"
+  },
+  "footer": {
+    "quickLinks": "Link Rapidi",
+    "contactInfo": "Informazioni di Contatto",
+    "followUs": "Seguici",
+    "legalNotices": "Note Legali",
+    "privacyPolicy": "Informativa sulla Privacy",
+    "termsOfService": "Termini di Servizio",
+    "accessibility": "Accessibilità",
+    "memberFDIC": "Membro FDIC",
+    "equalHousingLender": "Prestatore di Alloggi Paritari",
+    "copyright": "© 2025 IBK 기업은행. Tutti i diritti riservati."
+  },
+  "languages": {
+    "en": "English",
+    "zh-TW": "繁體中文",
+    "zh-CN": "简体中文",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ko": "한국어",
+    "pt": "Português",
+    "it": "Italiano",
+    "ar": "العربية"
+  },
+  "features": {
+    "title": "Perché Scegliere IBK 기업은행",
+    "subtitle": "Scopri i vantaggi di fare banking con un partner globale di fiducia",
+    "feature1": {
+      "title": "Supporto Globale 24/7",
+      "description": "Servizio clienti 24 ore su 24 in tutti i fusi orari"
+    },
+    "feature2": {
+      "title": "Sicurezza Avanzata",
+      "description": "Crittografia di livello militare e protezione dalle frodi"
+    },
+    "feature3": {
+      "title": "Tassi Competitivi",
+      "description": "Tassi di interesse leader del settore e commissioni basse"
+    },
+    "feature4": {
+      "title": "Mobile First",
+      "description": "App mobile pluripremiata con tutte le funzionalità bancarie"
+    }
+  },
+  "testimonials": {
+    "title": "Cosa Dicono i Nostri Clienti",
+    "subtitle": "Fidato da milioni di clienti in tutto il mondo",
+    "testimonial1": {
+      "text": "IBK 기업은행 è stato il mio partner finanziario per oltre 10 anni. I loro servizi internazionali sono impareggiabili.",
+      "author": "Sarah Chen",
+      "position": "Imprenditrice, Hong Kong"
+    },
+    "testimonial2": {
+      "text": "L'app mobile è incredibilmente facile da usare e sicura. Posso gestire tutti i miei conti senza problemi.",
+      "author": "Michael Rodriguez",
+      "position": "Ingegnere Software, New York"
+    },
+    "testimonial3": {
+      "text": "Il team di gestione patrimoniale mi ha aiutato a pianificare la pensione con strategie di investimento personalizzate.",
+      "author": "Emma Thompson",
+      "position": "Dottoressa, Londra"
+    }
+  },
+  "cta": {
+    "title": "Pronto per Iniziare?",
+    "subtitle": "Unisciti a milioni di clienti soddisfatti in tutto il mondo",
+    "primaryButton": "Apri Conto Oggi",
+    "secondaryButton": "Prenota Consulenza"
+  }
+}

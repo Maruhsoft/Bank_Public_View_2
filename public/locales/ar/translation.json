@@ -1,0 +1,167 @@
+{
+  "navigation": {
+    "home": "الرئيسية",
+    "personalBanking": "الخدمات المصرفية الشخصية",
+    "businessBanking": "الخدمات المصرفية للشركات",
+    "internationalBanking": "الخدمات المصرفية الدولية",
+    "digitalBanking": "الخدمات المصرفية الرقمية",
+    "wealthManagement": "إدارة الثروات",
+    "securityCenter": "مركز الأمان",
+    "aboutUs": "من نحن",
+    "contactUs": "اتصل بنا",
+    "login": "تسجيل الدخول",
+    "openAccount": "فتح حساب"
+  },
+  "personalBanking": {
+    "checkingAccounts": "الحسابات الجارية",
+    "savingsAccounts": "حسابات التوفير",
+    "creditCards": "بطاقات الائتمان",
+    "loansAndMortgages": "القروض والرهون العقارية",
+    "investmentServices": "خدمات الاستثمار",
+    "insurance": "التأمين"
+  },
+  "businessBanking": {
+    "businessChecking": "الحساب الجاري التجاري",
+    "businessLoans": "القروض التجارية",
+    "merchantServices": "خدمات التجار",
+    "payrollAndHR": "حلول الرواتب والموارد البشرية",
+    "commercialRealEstate": "العقارات التجارية"
+  },
+  "internationalBanking": {
+    "globalTransfers": "التحويلات العالمية",
+    "foreignCurrencyAccounts": "حسابات العملات الأجنبية",
+    "internationalInvestments": "الاستثمارات الدولية",
+    "offshoreBanking": "الخدمات المصرفية الخارجية"
+  },
+  "digitalBanking": {
+    "mobileBanking": "الخدمات المصرفية عبر الهاتف المحمول",
+    "onlineBanking": "الخدمات المصرفية عبر الإنترنت",
+    "billPay": "دفع الفواتير",
+    "eStatements": "الكشوفات الإلكترونية",
+    "securityTips": "نصائح الأمان"
+  },
+  "wealthManagement": {
+    "portfolioAdvisory": "استشارات المحافظ الاستثمارية",
+    "retirementPlanning": "تخطيط التقاعد",
+    "privateBanking": "الخدمات المصرفية الخاصة",
+    "trustServices": "خدمات الائتمان"
+  },
+  "securityCenter": {
+    "fraudProtection": "الحماية من الاحتيال",
+    "accountAlerts": "تنبيهات الحساب",
+    "safeBankingTips": "نصائح للخدمات المصرفية الآمنة"
+  },
+  "aboutUs": {
+    "ourHistory": "تاريخنا",
+    "leadership": "القيادة",
+    "careers": "الوظائف",
+    "newsroom": "غرفة الأخبار"
+  },
+  "contactUs": {
+    "branchLocator": "محدد موقع الفروع وأجهزة الصراف الآلي",
+    "customerService": "خدمة العملاء",
+    "internationalOffices": "المكاتب الدولية",
+    "feedback": "التعليقات"
+  },
+  "hero": {
+    "slide1": {
+      "title": "خدمات مصرفية مبنية لمستقبلك",
+      "subtitle": "اختبر خدمات مصرفية عالمية المستوى مع انتشار عالمي وخبرة محلية",
+      "cta": "ابدأ اليوم"
+    },
+    "slide2": {
+      "title": "حلول مصرفية دولية",
+      "subtitle": "أدر أموالك عبر الحدود بسلاسة مع شبكتنا العالمية",
+      "cta": "استكشف الخدمات"
+    },
+    "slide3": {
+      "title": "الابتكار الرقمي يلتقي بالثقة",
+      "subtitle": "أمان متقدم وتكنولوجيا متطورة للخدمات المصرفية الحديثة",
+      "cta": "اعرف المزيد"
+    }
+  },
+  "homepage": {
+    "personalBankingTitle": "الخدمات المصرفية الشخصية",
+    "personalBankingDesc": "حلول مصرفية شاملة مصممة خصيصاً لاحتياجاتك الشخصية",
+    "businessBankingTitle": "الخدمات المصرفية للشركات",
+    "businessBankingDesc": "قوّي عملك بخبرتنا في الخدمات المصرفية التجارية",
+    "globalBankingTitle": "الخدمات المصرفية العالمية",
+    "globalBankingDesc": "خدمات مصرفية دولية تربطك بالعالم",
+    "digitalServicesTitle": "الخدمات الرقمية",
+    "digitalServicesDesc": "خدمات مصرفية في أي وقت وأي مكان مع منصاتنا الرقمية",
+    "securityCenterTitle": "مركز الأمان",
+    "securityCenterDesc": "أمانك المالي هو أولويتنا القصوى",
+    "newsAndUpdates": "الأخبار والتحديثات",
+    "latestOffers": "أحدث العروض"
+  },
+  "footer": {
+    "quickLinks": "روابط سريعة",
+    "contactInfo": "معلومات الاتصال",
+    "followUs": "تابعنا",
+    "legalNotices": "الإشعارات القانونية",
+    "privacyPolicy": "سياسة الخصوصية",
+    "termsOfService": "شروط الخدمة",
+    "accessibility": "إمكانية الوصول",
+    "memberFDIC": "عضو في FDIC",
+    "equalHousingLender": "مقرض إسكان متساوي",
+    "copyright": "© 2025 IBK 기업은행. جميع الحقوق محفوظة."
+  },
+  "languages": {
+    "en": "English",
+    "zh-TW": "繁體中文",
+    "zh-CN": "简体中文",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ko": "한국어",
+    "pt": "Português",
+    "it": "Italiano",
+    "ar": "العربية"
+  },
+  "features": {
+    "title": "لماذا تختار IBK 기업은행",
+    "subtitle": "اكتشف مزايا التعامل المصرفي مع شريك عالمي موثوق",
+    "feature1": {
+      "title": "دعم عالمي على مدار الساعة",
+      "description": "خدمة عملاء على مدار الساعة في جميع المناطق الزمنية"
+    },
+    "feature2": {
+      "title": "أمان متقدم",
+      "description": "تشفير بمستوى عسكري وحماية من الاحتيال"
+    },
+    "feature3": {
+      "title": "أسعار تنافسية",
+      "description": "أسعار فائدة رائدة في الصناعة ورسوم منخفضة"
+    },
+    "feature4": {
+      "title": "الهاتف المحمول أولاً",
+      "description": "تطبيق محمول حائز على جوائز مع جميع الميزات المصرفية"
+    }
+  },
+  "testimonials": {
+    "title": "ما يقوله عملاؤنا",
+    "subtitle": "موثوق من قبل ملايين العملاء حول العالم",
+    "testimonial1": {
+      "text": "IBK 기업은행 كان شريكي المالي لأكثر من 10 سنوات. خدماتهم الدولية لا مثيل لها.",
+      "author": "سارة تشين",
+      "position": "صاحبة أعمال، هونغ كونغ"
+    },
+    "testimonial2": {
+      "text": "التطبيق المحمول سهل الاستخدام بشكل لا يصدق وآمن. يمكنني إدارة جميع حساباتي بسلاسة.",
+      "author": "مايكل رودريغيز",
+      "position": "مهندس برمجيات، نيويورك"
+    },
+    "testimonial3": {
+      "text": "ساعدني فريق إدارة الثروات في التخطيط للتقاعد باستراتيجيات استثمار مخصصة.",
+      "author": "إيما طومسون",
+      "position": "طبيبة، لندن"
+    }
+  },
+  "cta": {
+    "title": "هل أنت مستعد للبدء؟",
+    "subtitle": "انضم إلى ملايين العملاء الراضين حول العالم",
+    "primaryButton": "افتح حساباً اليوم",
+    "secondaryButton": "احجز استشارة"
+  }
+}
