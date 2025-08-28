@@ -41,5 +41,8 @@
     "fdic": "Member FDIC",
     "equalHousing": "Equal Housing Lender",
     "nmls": "NMLS ID: 172766"
+  },
+  "smartsupp": {
+    "key": "0f576b8321a26f63dcfc006f3d755c69e43725d0"
   }
 }

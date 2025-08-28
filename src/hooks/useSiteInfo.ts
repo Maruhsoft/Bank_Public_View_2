@@ -44,6 +44,9 @@ interface SiteInfo {
     equalHousing: string;
     nmls: string;
   };
+  smartsupp: {
+    key: string;
+  };
 }
 
 export const useSiteInfo = () => {
