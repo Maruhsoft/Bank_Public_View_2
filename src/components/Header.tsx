@@ -21,7 +21,8 @@ const Header: React.FC = () => {
           {/* Logo */}
           <div className="flex items-center flex-shrink-0">
             <a href="#" className="flex items-center space-x-2 hover:opacity-75 transition-opacity duration-200">
-              <Building2 className="w-6 h-6 sm:w-8 sm:h-8 text-blue-600" />
+              <img src="/favicon.ico" alt="Logo" className="h-8 w-8" />
+              
               <div className="text-lg sm:text-xl font-bold text-gray-900 hidden xs:block">
                 {siteInfo?.bankName || 'IBK 기업은행'}
               </div>

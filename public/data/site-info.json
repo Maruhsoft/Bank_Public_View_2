@@ -3,15 +3,15 @@
   "tagline": "Your Trusted Financial Partner Worldwide",
   "contact": {
     "email": "support@ibk.digital",
-    "phone": "+1-800-555-1234",
-    "hkPhone": "+852-1234-5678"
+    "phone": "+1-800-555-6674",
+    "hkPhone": "+852-0874-5678"
   },
   "addresses": {
     "usHQ": {
-      "address": "123 Liberty Avenue",
+      "address": "173 Liberty Avenue",
       "city": "New York",
       "state": "NY",
-      "zipCode": "10001",
+      "zipCode": "10631",
       "country": "USA"
     },
     "hongKong": {
@@ -29,17 +29,17 @@
   },
   "socials": {
     "facebook": "https://facebook.com/",
-    "linkedin": "https://linkedin.com/company/",
+    "linkedin": "https://linkedin.com/",
     "twitter": "https://twitter.com/",
     "youtube": "https://youtube.com/"
   },
   "externalUrls": {
-    "login": "https://e.ibk.digital/",
-    "signup": "https://e.ibk.digital/signup"
+    "login": "https://e.ibk.digital/user/login",
+    "signup": "https://e.ibk.digital/user/register"
   },
   "compliance": {
     "fdic": "Member FDIC",
     "equalHousing": "Equal Housing Lender",
-    "nmls": "NMLS ID: 123456"
+    "nmls": "NMLS ID: 172766"
   }
 }
