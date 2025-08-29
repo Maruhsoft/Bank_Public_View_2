@@ -1,0 +1,167 @@
+{
+  "navigation": {
+    "home": "홈",
+    "personalBanking": "개인뱅킹",
+    "businessBanking": "기업뱅킹",
+    "internationalBanking": "국제뱅킹",
+    "digitalBanking": "디지털뱅킹",
+    "wealthManagement": "자산관리",
+    "securityCenter": "보안센터",
+    "aboutUs": "회사소개",
+    "contactUs": "고객센터",
+    "login": "로그인",
+    "openAccount": "계좌개설"
+  },
+  "personalBanking": {
+    "checkingAccounts": "입출금통장",
+    "savingsAccounts": "적금통장",
+    "creditCards": "신용카드",
+    "loansAndMortgages": "대출 및 주택담보대출",
+    "investmentServices": "투자서비스",
+    "insurance": "보험"
+  },
+  "businessBanking": {
+    "businessChecking": "기업입출금통장",
+    "businessLoans": "기업대출",
+    "merchantServices": "가맹점서비스",
+    "payrollAndHR": "급여 및 인사관리 솔루션",
+    "commercialRealEstate": "상업용 부동산"
+  },
+  "internationalBanking": {
+    "globalTransfers": "해외송금",
+    "foreignCurrencyAccounts": "외화통장",
+    "internationalInvestments": "해외투자",
+    "offshoreBanking": "해외금융"
+  },
+  "digitalBanking": {
+    "mobileBanking": "모바일뱅킹",
+    "onlineBanking": "인터넷뱅킹",
+    "billPay": "공과금납부",
+    "eStatements": "전자명세서",
+    "securityTips": "보안가이드"
+  },
+  "wealthManagement": {
+    "portfolioAdvisory": "포트폴리오 자문",
+    "retirementPlanning": "은퇴설계",
+    "privateBanking": "프라이빗뱅킹",
+    "trustServices": "신탁서비스"
+  },
+  "securityCenter": {
+    "fraudProtection": "사기방지",
+    "accountAlerts": "계좌알림",
+    "safeBankingTips": "안전한 뱅킹 가이드"
+  },
+  "aboutUs": {
+    "ourHistory": "연혁",
+    "leadership": "경영진",
+    "careers": "채용정보",
+    "newsroom": "보도자료"
+  },
+  "contactUs": {
+    "branchLocator": "영업점 및 ATM 찾기",
+    "customerService": "고객센터",
+    "internationalOffices": "해외지점",
+    "feedback": "고객의견"
+  },
+  "hero": {
+    "slide1": {
+      "title": "미래를 위한 은행",
+      "subtitle": "글로벌 네트워크와 전문성으로 세계 최고 수준의 금융서비스를 경험하세요",
+      "cta": "지금 시작하기"
+    },
+    "slide2": {
+      "title": "국제금융 솔루션",
+      "subtitle": "글로벌 네트워크를 통해 국경을 넘나드는 금융업무를 원활하게 처리하세요",
+      "cta": "서비스 살펴보기"
+    },
+    "slide3": {
+      "title": "디지털 혁신과 신뢰의 만남",
+      "subtitle": "첨단 보안기술과 최신 기술로 현대적인 뱅킹서비스를 제공합니다",
+      "cta": "자세히 알아보기"
+    }
+  },
+  "homepage": {
+    "personalBankingTitle": "개인뱅킹",
+    "personalBankingDesc": "개인 고객의 다양한 금융 니즈에 맞춘 종합 뱅킹 솔루션",
+    "businessBankingTitle": "기업뱅킹",
+    "businessBankingDesc": "전문적인 기업금융 서비스로 귀하의 사업을 지원합니다",
+    "globalBankingTitle": "글로벌뱅킹",
+    "globalBankingDesc": "전 세계를 연결하는 국제금융 서비스",
+    "digitalServicesTitle": "디지털서비스",
+    "digitalServicesDesc": "언제 어디서나 디지털 플랫폼으로 편리한 뱅킹",
+    "securityCenterTitle": "보안센터",
+    "securityCenterDesc": "고객의 금융보안이 저희의 최우선 과제입니다",
+    "newsAndUpdates": "뉴스 및 공지사항",
+    "latestOffers": "최신 상품안내"
+  },
+  "footer": {
+    "quickLinks": "바로가기",
+    "contactInfo": "연락처 정보",
+    "followUs": "소셜미디어",
+    "legalNotices": "법적고지",
+    "privacyPolicy": "개인정보처리방침",
+    "termsOfService": "서비스 이용약관",
+    "accessibility": "웹접근성",
+    "memberFDIC": "예금보험공사 가입",
+    "equalHousingLender": "주택금융 평등대출기관",
+    "copyright": "© 2025 IBK 기업은행. 모든 권리 보유."
+  },
+  "languages": {
+    "en": "English",
+    "zh-TW": "繁體中文",
+    "zh-CN": "简体中文",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ko": "한국어",
+    "pt": "Português",
+    "it": "Italiano",
+    "ar": "العربية"
+  },
+  "features": {
+    "title": "IBK 기업은행을 선택하는 이유",
+    "subtitle": "신뢰할 수 있는 글로벌 파트너와 함께하는 뱅킹의 장점을 발견하세요",
+    "feature1": {
+      "title": "24시간 글로벌 지원",
+      "description": "전 세계 모든 시간대에서 24시간 고객서비스 제공"
+    },
+    "feature2": {
+      "title": "첨단 보안시스템",
+      "description": "군사급 암호화 기술과 사기방지 시스템"
+    },
+    "feature3": {
+      "title": "경쟁력 있는 금리",
+      "description": "업계 최고 수준의 예금금리와 낮은 수수료"
+    },
+    "feature4": {
+      "title": "모바일 우선",
+      "description": "모든 뱅킹 기능을 갖춘 수상경력의 모바일 앱"
+    }
+  },
+  "testimonials": {
+    "title": "고객 후기",
+    "subtitle": "전 세계 수백만 고객들의 신뢰",
+    "testimonial1": {
+      "text": "IBK 기업은행은 10년 넘게 저의 금융 파트너였습니다. 국제금융 서비스는 타의 추종을 불허합니다.",
+      "author": "사라 첸",
+      "position": "사업가, 홍콩"
+    },
+    "testimonial2": {
+      "text": "모바일 앱이 매우 사용하기 쉽고 안전합니다. 모든 계좌를 원활하게 관리할 수 있습니다.",
+      "author": "마이클 로드리게스",
+      "position": "소프트웨어 엔지니어, 뉴욕"
+    },
+    "testimonial3": {
+      "text": "자산관리팀이 개인 맞춤형 투자전략으로 은퇴 계획을 세우는 데 도움을 주었습니다.",
+      "author": "엠마 톰슨",
+      "position": "의사, 런던"
+    }
+  },
+  "cta": {
+    "title": "시작할 준비가 되셨나요?",
+    "subtitle": "전 세계 수백만 만족한 고객들과 함께하세요",
+    "primaryButton": "지금 계좌 개설",
+    "secondaryButton": "상담 예약"
+  }
+}

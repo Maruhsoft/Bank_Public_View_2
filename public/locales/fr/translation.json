@@ -111,6 +111,57 @@
     "zh-TW": "繁體中文",
     "zh-CN": "简体中文",
     "es": "Español",
-    "fr": "Français"
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ko": "한국어",
+    "pt": "Português",
+    "it": "Italiano",
+    "ar": "العربية"
+  },
+  "features": {
+    "title": "Pourquoi Choisir IBK 기업은행",
+    "subtitle": "Découvrez les avantages de faire affaire avec un partenaire mondial de confiance",
+    "feature1": {
+      "title": "Support Global 24/7",
+      "description": "Service client 24 heures sur 24 dans tous les fuseaux horaires"
+    },
+    "feature2": {
+      "title": "Sécurité Avancée",
+      "description": "Chiffrement de niveau militaire et protection contre la fraude"
+    },
+    "feature3": {
+      "title": "Taux Compétitifs",
+      "description": "Taux d'intérêt leaders de l'industrie et frais réduits"
+    },
+    "feature4": {
+      "title": "Mobile d'Abord",
+      "description": "Application mobile primée avec toutes les fonctionnalités bancaires"
+    }
+  },
+  "testimonials": {
+    "title": "Ce Que Disent Nos Clients",
+    "subtitle": "Fait confiance par des millions de clients dans le monde",
+    "testimonial1": {
+      "text": "IBK 기업은행 a été mon partenaire financier pendant plus de 10 ans. Leurs services internationaux sont inégalés.",
+      "author": "Sarah Chen",
+      "position": "Entrepreneure, Hong Kong"
+    },
+    "testimonial2": {
+      "text": "L'application mobile est incroyablement facile à utiliser et sécurisée. Je peux gérer tous mes comptes en toute transparence.",
+      "author": "Michael Rodriguez",
+      "position": "Ingénieur Logiciel, New York"
+    },
+    "testimonial3": {
+      "text": "L'équipe de gestion de patrimoine m'a aidé à planifier ma retraite avec des stratégies d'investissement personnalisées.",
+      "author": "Emma Thompson",
+      "position": "Médecin, Londres"
+    }
+  },
+  "cta": {
+    "title": "Prêt à Commencer ?",
+    "subtitle": "Rejoignez des millions de clients satisfaits dans le monde entier",
+    "primaryButton": "Ouvrir un Compte Aujourd'hui",
+    "secondaryButton": "Planifier une Consultation"
   }
 }

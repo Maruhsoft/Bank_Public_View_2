@@ -12,14 +12,98 @@
     "login": "Anmelden",
     "openAccount": "Konto eröffnen"
   },
+  "personalBanking": {
+    "checkingAccounts": "Girokonten",
+    "savingsAccounts": "Sparkonten",
+    "creditCards": "Kreditkarten",
+    "loansAndMortgages": "Kredite und Hypotheken",
+    "investmentServices": "Anlageberatung",
+    "insurance": "Versicherungen"
+  },
+  "businessBanking": {
+    "businessChecking": "Geschäftskonto",
+    "businessLoans": "Unternehmenskredite",
+    "merchantServices": "Händlerservices",
+    "payrollAndHR": "Lohn- und Personallösungen",
+    "commercialRealEstate": "Gewerbeimmobilien"
+  },
+  "internationalBanking": {
+    "globalTransfers": "Globale Überweisungen",
+    "foreignCurrencyAccounts": "Fremdwährungskonten",
+    "internationalInvestments": "Internationale Investitionen",
+    "offshoreBanking": "Offshore-Banking"
+  },
+  "digitalBanking": {
+    "mobileBanking": "Mobile Banking",
+    "onlineBanking": "Online-Banking",
+    "billPay": "Rechnungszahlung",
+    "eStatements": "Elektronische Kontoauszüge",
+    "securityTips": "Sicherheitstipps"
+  },
+  "wealthManagement": {
+    "portfolioAdvisory": "Portfolio-Beratung",
+    "retirementPlanning": "Altersvorsorge",
+    "privateBanking": "Private Banking",
+    "trustServices": "Treuhandservices"
+  },
+  "securityCenter": {
+    "fraudProtection": "Betrugsschutz",
+    "accountAlerts": "Kontowarnungen",
+    "safeBankingTips": "Sicheres Banking"
+  },
+  "aboutUs": {
+    "ourHistory": "Unsere Geschichte",
+    "leadership": "Führung",
+    "careers": "Karriere",
+    "newsroom": "Presse"
+  },
+  "contactUs": {
+    "branchLocator": "Filial- und Geldautomatensuche",
+    "customerService": "Kundenservice",
+    "internationalOffices": "Internationale Büros",
+    "feedback": "Feedback"
+  },
   "hero": {
     "slide1": {
       "title": "Banking für Ihre Zukunft",
       "subtitle": "Erleben Sie erstklassige Bankdienstleistungen mit globaler Reichweite und lokaler Expertise",
       "cta": "Jetzt starten"
+    },
+    "slide2": {
+      "title": "Internationale Banking-Lösungen",
+      "subtitle": "Verwalten Sie Ihre grenzüberschreitenden Finanzen nahtlos mit unserem globalen Netzwerk",
+      "cta": "Services erkunden"
+    },
+    "slide3": {
+      "title": "Digitale Innovation trifft Vertrauen",
+      "subtitle": "Erweiterte Sicherheit und modernste Technologie für modernes Banking",
+      "cta": "Mehr erfahren"
     }
   },
+  "homepage": {
+    "personalBankingTitle": "Privatkundengeschäft",
+    "personalBankingDesc": "Umfassende Banking-Lösungen, die auf Ihre persönlichen Bedürfnisse zugeschnitten sind",
+    "businessBankingTitle": "Firmenkundengeschäft",
+    "businessBankingDesc": "Stärken Sie Ihr Unternehmen mit unserer Expertise im Firmenkundengeschäft",
+    "globalBankingTitle": "Global Banking",
+    "globalBankingDesc": "Internationale Bankdienstleistungen, die Sie weltweit verbinden",
+    "digitalServicesTitle": "Digitale Services",
+    "digitalServicesDesc": "Banking jederzeit und überall mit unseren digitalen Plattformen",
+    "securityCenterTitle": "Sicherheitszentrum",
+    "securityCenterDesc": "Ihre finanzielle Sicherheit ist unsere oberste Priorität",
+    "newsAndUpdates": "Nachrichten und Updates",
+    "latestOffers": "Neueste Angebote"
+  },
   "footer": {
+    "quickLinks": "Schnellzugriff",
+    "contactInfo": "Kontaktinformationen",
+    "followUs": "Folgen Sie uns",
+    "legalNotices": "Rechtliche Hinweise",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen",
+    "accessibility": "Barrierefreiheit",
+    "memberFDIC": "FDIC-Mitglied",
+    "equalHousingLender": "Gleichberechtigter Wohnungsbaukreditgeber",
     "copyright": "© 2025 IBK 기업은행. Alle Rechte vorbehalten."
   },
   "languages": {
@@ -34,5 +118,50 @@
     "pt": "Português",
     "it": "Italiano",
     "ar": "العربية"
+  },
+  "features": {
+    "title": "Warum IBK 기업은행 wählen",
+    "subtitle": "Entdecken Sie die Vorteile des Bankings mit einem vertrauenswürdigen globalen Partner",
+    "feature1": {
+      "title": "24/7 Globaler Support",
+      "description": "Rund um die Uhr Kundenservice in allen Zeitzonen"
+    },
+    "feature2": {
+      "title": "Erweiterte Sicherheit",
+      "description": "Militärische Verschlüsselung und Betrugsschutz"
+    },
+    "feature3": {
+      "title": "Wettbewerbsfähige Zinsen",
+      "description": "Branchenführende Zinssätze und niedrige Gebühren"
+    },
+    "feature4": {
+      "title": "Mobile First",
+      "description": "Preisgekrönte Mobile App mit allen Banking-Funktionen"
+    }
+  },
+  "testimonials": {
+    "title": "Was unsere Kunden sagen",
+    "subtitle": "Vertraut von Millionen von Kunden weltweit",
+    "testimonial1": {
+      "text": "IBK 기업은행 ist seit über 10 Jahren mein Finanzpartner. Ihre internationalen Services sind unübertroffen.",
+      "author": "Sarah Chen",
+      "position": "Unternehmerin, Hongkong"
+    },
+    "testimonial2": {
+      "text": "Die Mobile App ist unglaublich benutzerfreundlich und sicher. Ich kann alle meine Konten nahtlos verwalten.",
+      "author": "Michael Rodriguez",
+      "position": "Software-Ingenieur, New York"
+    },
+    "testimonial3": {
+      "text": "Das Vermögensverwaltungsteam half mir bei der Ruhestandsplanung mit personalisierten Anlagestrategien.",
+      "author": "Emma Thompson",
+      "position": "Ärztin, London"
+    }
+  },
+  "cta": {
+    "title": "Bereit anzufangen?",
+    "subtitle": "Schließen Sie sich Millionen zufriedener Kunden weltweit an",
+    "primaryButton": "Heute Konto eröffnen",
+    "secondaryButton": "Beratung vereinbaren"
   }
 }

@@ -111,6 +111,57 @@
     "zh-TW": "繁體中文",
     "zh-CN": "简体中文",
     "es": "Español",
-    "fr": "Français"
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ko": "한국어",
+    "pt": "Português",
+    "it": "Italiano",
+    "ar": "العربية"
+  },
+  "features": {
+    "title": "为什么选择IBK 기업은행",
+    "subtitle": "发现与值得信赖的全球合作伙伴进行银行业务的优势",
+    "feature1": {
+      "title": "24/7全球支持",
+      "description": "所有时区24小时客户服务"
+    },
+    "feature2": {
+      "title": "先进安全",
+      "description": "军用级加密和欺诈保护"
+    },
+    "feature3": {
+      "title": "竞争性利率",
+      "description": "行业领先的利率和低费用"
+    },
+    "feature4": {
+      "title": "移动优先",
+      "description": "获奖的移动应用程序，具备所有银行功能"
+    }
+  },
+  "testimonials": {
+    "title": "客户评价",
+    "subtitle": "受到全球数百万客户的信赖",
+    "testimonial1": {
+      "text": "IBK 기업은행已经是我10多年的金融合作伙伴。他们的国际服务无与伦比。",
+      "author": "莎拉·陈",
+      "position": "企业主，香港"
+    },
+    "testimonial2": {
+      "text": "移动应用程序非常易于使用且安全。我可以无缝管理所有账户。",
+      "author": "迈克尔·罗德里格斯",
+      "position": "软件工程师，纽约"
+    },
+    "testimonial3": {
+      "text": "财富管理团队通过个性化投资策略帮助我规划退休。",
+      "author": "艾玛·汤普森",
+      "position": "医生，伦敦"
+    }
+  },
+  "cta": {
+    "title": "准备开始了吗？",
+    "subtitle": "加入全球数百万满意的客户",
+    "primaryButton": "今天开户",
+    "secondaryButton": "预约咨询"
   }
 }
